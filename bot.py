@@ -27,9 +27,9 @@ DESTINATIONS = [
         "id": 1442320850417225799,
         "name": "Channel 1",
         "roles": {
-            "role_1": [1122110156847726632, 1360476019227758775], 
-            "role_2": 1360476019227758775, 
-            "role_3": [3, 4, 5] # Example of multiple roles
+            "role_1": 1444284941172215888, 
+            "role_2": 1444284941172215888, 
+            "role_3": 1444284941172215888 # Example of multiple roles
         }
     },
     # Channel 2
