@@ -24,7 +24,7 @@ CHANNEL_ID_NGUON = int(CHANNEL_ID_NGUON_STR) if CHANNEL_ID_NGUON_STR else None
 DESTINATIONS = [
     # Channel 1
     {
-        "id": 1444229288449675344,
+        "id": 1442320850417225799,
         "name": "Channel 1",
         "roles": {
             "role_1": [1122110156847726632, 1360476019227758775], 
