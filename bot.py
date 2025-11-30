@@ -149,7 +149,7 @@ KEYWORD_DATA = {
     "mưa": {"msg": "**Mưa** xuất hiện!! có thể xuất hiện biến thể **[ Ẩm ướt ]**", "role": "role_3"},
     "sương mù": {"msg": "**Sương Mù** xuất hiện!! có thể xuất hiện biến thể **[ Ẩm ướt ]**", "role": "role_3"},
     "sương sớm": {"msg": "**Sương Sớm** xuất hiện!! có thể xuất hiện biến thể **[ Sương]**", "role": "role_3"},
-    "gio": {"msg": "**Gió** xuất hiện!! có thể xuất hiện biến thể **[ Gió ]**", "role": "role_3"},
+    "gió": {"msg": "**Gió** xuất hiện!! có thể xuất hiện biến thể **[ Gió ]**", "role": "role_3"},
     "nắng nóng": {"msg": "**Nắng Nóng** xuất hiện!! có thể xuất hiện biến thể **[ Khô ]**", "role": "role_3"},
     "gió cát": {"msg": "**Gió Cát** xuất hiện!! có thể xuất hiện biến thể **[ Cát ]**", "role": "role_3"},
     "ảo ảnh": {"msg": "**Ảo Ảnh** xuất hiện!! có thể xuất hiện biến thể **[ Ảo Ảnh ]**", "role": "role_3"},
