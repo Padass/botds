@@ -24,32 +24,32 @@ CHANNEL_ID_NGUON = int(CHANNEL_ID_NGUON_STR) if CHANNEL_ID_NGUON_STR else None
 DESTINATIONS = [
     # Channel 1
     {
-        "id": 1442320850417225799,
-        "name": "Channel 1",
-        "roles": {
-            "role_1": 1444284941172215888, 
-            "role_2": 1444284941172215888, 
-            "role_3": 1444284941172215888 # Example of multiple roles
-        }
-    },
-    # Channel 2
-    {
         "id": 1444167053568114748,
-        "name": "Channel 2",
+        "name": "Channel 1",
         "roles": {
             "role_1": 1444166788723249284, 
             "role_2": 1444166850719121530, 
             "role_3": 1444166935158980778,
         }
     },
+    # Channel 2
+    {
+        "id": 0,
+        "name": "Channel 2",
+        "roles": {
+            "role_1": 0, 
+            "role_2": 0, 
+            "role_3": 0,
+        }
+    },
     # Channel 3
     {
-        "id": 1444240097829716000,
+        "id": 0,
         "name": "Channel 3",
         "roles": {
-            "role_1": 71111, 
-            "role_2": 82222, 
-            "role_3": 9
+            "role_1": 0, 
+            "role_2": 0, 
+            "role_3": 0,
         }
     },
     # Channel 4
