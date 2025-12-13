@@ -138,7 +138,7 @@ KEYWORD_DATA = {
     "táo đường": {"msg": "**Táo đường** đang bán trong Shop!!", "role": "role_1"},
     "đậu": {"msg": "**Đậu** đang bán trong Shop!!", "role": "role_1"},
     "khế": {"msg": "**Khế** đang bán trong Shop!!", "role": "role_1"},
-    
+    "tuyết": {"msg": "**Tuyết** xuất hiện!! có thể xuất hiện biến thể **[ Khí lạnh ]**", "role": "role_3"},
     "vòi xanh": {"msg": "**Vòi Xanh** đang bán trong Shop!!", "role": "role_2"},
     "vòi đỏ": {"msg": "**Vòi Đỏ** đang bán trong Shop!!", "role": "role_2"},
     "đơn hàng": {"msg": "**Đơn hàng** đã được làm mới!!", "role": "role_2"},
