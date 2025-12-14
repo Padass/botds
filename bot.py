@@ -138,11 +138,13 @@ KEYWORD_DATA = {
     "táo đường": {"msg": "**Táo đường** đang bán trong Shop!!", "role": "role_1"},
     "đậu": {"msg": "**Đậu** đang bán trong Shop!!", "role": "role_1"},
     "khế": {"msg": "**Khế** đang bán trong Shop!!", "role": "role_1"},
-    "tuyết": {"msg": "**Tuyết** xuất hiện!! có thể xuất hiện biến thể **[ Khí lạnh ]**", "role": "role_3"},
+    "nho": {"msg": "**Nho** đang bán trong Shop!!", "role": "role_1"},
+    
     "vòi xanh": {"msg": "**Vòi Xanh** đang bán trong Shop!!", "role": "role_2"},
     "vòi đỏ": {"msg": "**Vòi Đỏ** đang bán trong Shop!!", "role": "role_2"},
     "đơn hàng": {"msg": "**Đơn hàng** đã được làm mới!!", "role": "role_2"},
     
+    "tuyết": {"msg": "**Tuyết** xuất hiện!! có thể xuất hiện biến thể **[ Khí lạnh ]**", "role": "role_3"},
     "ánh trăng": {"msg": "**Ánh Trăng** xuất hiện!! có thể xuất hiện biến thể **[ Ánh Trăng ]**", "role": "role_3"},
     "cực quang": {"msg": "**Cực Quang** xuất hiện!! có thể xuất hiện biến thể **[ Cực Quang ]**", "role": "role_3"},
     "bão": {"msg": "**Bão** xuất hiện!! có thể xuất hiện biến thể **[ Nhiễm Điện ]**", "role": "role_3"},
