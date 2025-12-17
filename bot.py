@@ -133,6 +133,7 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 # Keyword mapping with Role Categories
 KEYWORD_DATA = {
     "dưa hấu": {"msg": "**Dưa hấu** đang bán trong Shop!!", "role": "role_1"},
+    "dừa": {"msg": "**Dừa** đang bán trong Shop!!", "role": "role_1"},
     "bí ngô": {"msg": "**Bí ngô** đang bán trong Shop!!", "role": "role_1"},
     "xoài": {"msg": "**Xoài** đang bán trong Shop!!", "role": "role_1"},
     "táo đường": {"msg": "**Táo đường** đang bán trong Shop!!", "role": "role_1"},
